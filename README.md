@@ -1,0 +1,31 @@
+# NodeNavSite
+node框架koa2+Vue做一个简单的导航网站+后台管理中心
+
+<p>主要涉及到的技术：</p>
+<p>前端</p>
+<ul>
+  <li>
+    <p>前台</p>
+    <ul>
+      <li>JQuery</li>
+      <li>BootStrap</li>
+    </ul>
+  </li>
+  <li>
+    <p>后台</p>
+    <ul>
+      <li>Vue</li>
+      <li>Vue-route</li>
+      <li>Vue-resource</li>
+      <li>iViewUI</li>
+    </ul>
+  </li>
+</ul>
+<p>后端</p>
+<ul>
+  <li>nodejs</li>
+  <li>koa</li>
+  <li>koa-static</li>
+  <li>koa-bodyparser</li>
+  <li>koa-session2</li>
+</ul>
