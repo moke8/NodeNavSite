@@ -9,7 +9,7 @@
         <Table :columns="table.columns" :data="table.data"></Table>
         <Button type="primary" @click="postChange" long>将更改提交到服务器</Button>
 
-        <Modal v-model="Change_menu.status" title="Common Modal dialog box title" @on-ok="ChangeOk" @on-cancel="">
+        <Modal v-model="Change_menu.status" title="修改菜单项信息" @on-ok="ChangeOk" @on-cancel="">
             <Input v-model="Change_menu.name" type="text"/>
             <Input v-model="Change_menu.url" type="text"/>
         </Modal>

@@ -5,9 +5,19 @@
   "main": "config.js",
   "dependencies": {
     "co-body": "^6.0.0",
+    "content-disposition": "^0.5.3",
     "copy-to": "^2.0.1",
+    "debug": "^4.1.1",
+    "ee-first": "^1.1.1",
+    "is-generator-function": "^1.0.7",
+    "koa": "^2.7.0",
     "koa-bodyparser": "^4.2.1",
-    "koa-static": "^5.0.0"
+    "koa-route": "^3.2.0",
+    "koa-session2": "^2.2.10",
+    "koa-static": "^5.0.0",
+    "ms": "^2.1.1",
+    "on-finished": "^2.3.0",
+    "safe-buffer": "^5.1.2"
   },
   "devDependencies": {},
   "scripts": {

@@ -50,11 +50,11 @@
         </Collapse>
         <Button type="primary" style="margin-bottom:30px" @click="postSave" long>提交变更至服务器</Button>
 
-        <Modal v-model="Change_menu.status" title="Common Modal dialog box title" @on-ok="changeMenuOk" @on-cancel="">
+        <Modal v-model="Change_menu.status" title="修改菜单项信息" @on-ok="changeMenuOk" @on-cancel="">
             <Input v-model="Change_menu.name" type="text"/>
             <Input v-model="Change_menu.url" type="text"/>
         </Modal>
-        <Modal v-model="Change_nav.status" title="Common Modal dialog box title" @on-ok="changeNavOk" @on-cancel="">
+        <Modal v-model="Change_nav.status" title="修改分类信息" @on-ok="changeNavOk" @on-cancel="">
             <Input v-model="Change_nav.name" type="text"/>
             <Select v-model="Change_nav.color" style="width:200px">
                 <Option v-for="item in colorList" :value="item.value" :key="item.value">{{ item.label }}</Option>

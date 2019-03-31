@@ -2,9 +2,82 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ec183837-d33d-47d5-a376-ca6d9a0f96c0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/public/admin/source code/admin/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/admin/source code/admin/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/admin/source code/admin/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/public/admin/source code/admin/src/App.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/admin/source code/admin/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/admin/source code/admin/src/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/config.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/config.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.package_versions.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.package_versions.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.recently_updates.txt" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.recently_updates.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_accepts@1.3.5@accepts/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/_accepts@1.3.5@accepts/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_any-promise@1.3.0@any-promise/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/_any-promise@1.3.0@any-promise/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_bytes@3.0.0@bytes/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/_bytes@3.0.0@bytes/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_cache-content-type@1.0.1@cache-content-type/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/_cache-content-type@1.0.1@cache-content-type/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_co-body@6.0.0@co-body/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/_co-body@6.0.0@co-body/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_co@4.6.0@co/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/_co@4.6.0@co/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_content-disposition@0.5.3@content-disposition/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/_content-disposition@0.5.3@content-disposition/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_content-type@1.0.4@content-type/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/_content-type@1.0.4@content-type/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_cookies@0.7.3@cookies/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/_cookies@0.7.3@cookies/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_copy-to@2.0.1@copy-to/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/_copy-to@2.0.1@copy-to/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_debug@3.1.0@debug/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/_debug@3.1.0@debug/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_debug@3.2.6@debug/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/_debug@3.2.6@debug/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_debug@4.1.1@debug/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/_debug@4.1.1@debug/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_deep-equal@1.0.1@deep-equal/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/_deep-equal@1.0.1@deep-equal/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_delegates@1.0.0@delegates/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/_delegates@1.0.0@delegates/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_depd@1.1.2@depd/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/_depd@1.1.2@depd/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_destroy@1.0.4@destroy/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/_destroy@1.0.4@destroy/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_ee-first@1.1.1@ee-first/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/_ee-first@1.1.1@ee-first/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_error-inject@1.0.0@error-inject/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/_error-inject@1.0.0@error-inject/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_escape-html@1.0.3@escape-html/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/_escape-html@1.0.3@escape-html/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_fresh@0.5.2@fresh/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/_fresh@0.5.2@fresh/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_http-assert@1.4.0@http-assert/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/_http-assert@1.4.0@http-assert/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_http-errors@1.6.3@http-errors/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/_http-errors@1.6.3@http-errors/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_http-errors@1.7.2@http-errors/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/_http-errors@1.7.2@http-errors/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_iconv-lite@0.4.23@iconv-lite/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/_iconv-lite@0.4.23@iconv-lite/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_inflation@2.0.0@inflation/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/_inflation@2.0.0@inflation/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_inherits@2.0.3@inherits/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/_inherits@2.0.3@inherits/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_is-generator-function@1.0.7@is-generator-function/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/_is-generator-function@1.0.7@is-generator-function/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_isarray@0.0.1@isarray/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/_isarray@0.0.1@isarray/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_keygrip@1.0.3@keygrip/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/_keygrip@1.0.3@keygrip/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_koa-bodyparser@4.2.1@koa-bodyparser/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/_koa-bodyparser@4.2.1@koa-bodyparser/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_koa-compose@3.2.1@koa-compose/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/_koa-compose@3.2.1@koa-compose/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_koa-compose@4.1.0@koa-compose/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/_koa-compose@4.1.0@koa-compose/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_koa-convert@1.2.0@koa-convert/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/_koa-convert@1.2.0@koa-convert/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_koa-is-json@1.0.0@koa-is-json/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/_koa-is-json@1.0.0@koa-is-json/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_koa-route@3.2.0@koa-route/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/_koa-route@3.2.0@koa-route/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_koa-send@5.0.0@koa-send/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/_koa-send@5.0.0@koa-send/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_koa-session2@2.2.10@koa-session2/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/_koa-session2@2.2.10@koa-session2/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_koa-static@5.0.0@koa-static/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/_koa-static@5.0.0@koa-static/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_koa@2.7.0@koa/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/_koa@2.7.0@koa/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_media-typer@0.3.0@media-typer/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/_media-typer@0.3.0@media-typer/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_methods@1.1.2@methods/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/_methods@1.1.2@methods/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_mime-db@1.38.0@mime-db/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/_mime-db@1.38.0@mime-db/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_mime-types@2.1.22@mime-types/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/_mime-types@2.1.22@mime-types/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_ms@2.0.0@ms/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/_ms@2.0.0@ms/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_ms@2.1.1@ms/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/_ms@2.1.1@ms/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_mz@2.7.0@mz/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/_mz@2.7.0@mz/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_negotiator@0.6.1@negotiator/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/_negotiator@0.6.1@negotiator/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_object-assign@4.1.1@object-assign/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/_object-assign@4.1.1@object-assign/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_on-finished@2.3.0@on-finished/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/_on-finished@2.3.0@on-finished/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_only@0.0.2@only/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/_only@0.0.2@only/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_parseurl@1.3.2@parseurl/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/_parseurl@1.3.2@parseurl/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_path-is-absolute@1.0.1@path-is-absolute/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/_path-is-absolute@1.0.1@path-is-absolute/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_path-to-regexp@1.7.0@path-to-regexp/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/_path-to-regexp@1.7.0@path-to-regexp/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_qs@6.7.0@qs/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/_qs@6.7.0@qs/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_raw-body@2.3.3@raw-body/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/_raw-body@2.3.3@raw-body/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_resolve-path@1.4.0@resolve-path/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/_resolve-path@1.4.0@resolve-path/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_safe-buffer@5.1.2@safe-buffer/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/_safe-buffer@5.1.2@safe-buffer/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_safer-buffer@2.1.2@safer-buffer/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/_safer-buffer@2.1.2@safer-buffer/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_setprototypeof@1.1.0@setprototypeof/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/_setprototypeof@1.1.0@setprototypeof/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_setprototypeof@1.1.1@setprototypeof/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/_setprototypeof@1.1.1@setprototypeof/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_statuses@1.5.0@statuses/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/_statuses@1.5.0@statuses/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_thenify-all@1.6.0@thenify-all/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/_thenify-all@1.6.0@thenify-all/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_thenify@3.3.0@thenify/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/_thenify@3.3.0@thenify/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_toidentifier@1.0.0@toidentifier/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/_toidentifier@1.0.0@toidentifier/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_type-is@1.6.16@type-is/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/_type-is@1.6.16@type-is/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_unpipe@1.0.0@unpipe/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/_unpipe@1.0.0@unpipe/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_vary@1.1.2@vary/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/_vary@1.1.2@vary/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_ylru@1.2.1@ylru/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/_ylru@1.2.1@ylru/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -23,11 +96,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/config.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="4" column="23" lean-forward="true" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+            <state relative-caret-position="437">
+              <caret line="23" column="35" selection-start-line="23" selection-start-column="35" selection-end-line="23" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="361">
+              <caret line="19" column="27" lean-forward="true" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
             </state>
           </provider>
         </entry>
@@ -35,44 +117,22 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/update.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1182">
-              <caret line="85" column="6" lean-forward="true" selection-start-line="85" selection-start-column="6" selection-end-line="85" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/admin/source code/admin/src/App.vue">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="9" column="47" lean-forward="true" selection-start-line="9" selection-start-column="47" selection-end-line="9" selection-end-column="47" />
+            <state relative-caret-position="570">
+              <caret line="30" selection-start-line="30" selection-end-line="30" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/data/config.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1443">
-              <caret line="183" lean-forward="true" selection-start-line="183" selection-end-line="183" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/admin/source code/admin/public/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="10" column="14" lean-forward="true" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
-            </state>
-          </provider>
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/template/template.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-15">
-              <caret line="30" column="16" lean-forward="true" selection-start-line="30" selection-start-column="16" selection-end-line="30" selection-end-column="16" />
+            <state relative-caret-position="570">
+              <caret line="30" column="16" selection-start-line="30" selection-start-column="16" selection-end-line="30" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -85,7 +145,7 @@
     </findStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/public/admin/source code/admin" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -113,74 +173,23 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="node" type="b2602c69:ProjectViewProjectNode" />
-              <item name="node" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="node" type="b2602c69:ProjectViewProjectNode" />
-              <item name="node" type="462c0819:PsiDirectoryNode" />
-              <item name="data" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="node" type="b2602c69:ProjectViewProjectNode" />
-              <item name="node" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="node" type="b2602c69:ProjectViewProjectNode" />
-              <item name="node" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-              <item name="admin" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="node" type="b2602c69:ProjectViewProjectNode" />
-              <item name="node" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-              <item name="admin" type="462c0819:PsiDirectoryNode" />
-              <item name="source code" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="node" type="b2602c69:ProjectViewProjectNode" />
-              <item name="node" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-              <item name="admin" type="462c0819:PsiDirectoryNode" />
-              <item name="source code" type="462c0819:PsiDirectoryNode" />
-              <item name="admin" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="node" type="b2602c69:ProjectViewProjectNode" />
-              <item name="node" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-              <item name="admin" type="462c0819:PsiDirectoryNode" />
-              <item name="source code" type="462c0819:PsiDirectoryNode" />
-              <item name="admin" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="node" type="b2602c69:ProjectViewProjectNode" />
-              <item name="node" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-              <item name="product" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="node" type="b2602c69:ProjectViewProjectNode" />
-              <item name="node" type="462c0819:PsiDirectoryNode" />
-              <item name="template" type="462c0819:PsiDirectoryNode" />
+              <item name="node主目录" type="b2602c69:ProjectViewProjectNode" />
+              <item name="node主目录" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Documents/WebStorm" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../admin后台管理未编译源文件" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="$USER_HOME$/.nvm/versions/node/v6.5.0/bin/node" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -199,6 +208,16 @@
       </list>
     </option>
   </component>
+  <component name="RunManager">
+    <configuration name="config.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/config.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.config.js" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -211,29 +230,30 @@
       <updated>1553250549943</updated>
       <workItem from="1553250558064" duration="1704000" />
       <workItem from="1553483435349" duration="10955000" />
+      <workItem from="1554051621966" duration="1061000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12659000" />
+    <option name="totallyTimeSpent" value="13720000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="2062" height="1136" extended-state="6" />
-    <editor active="true" />
     <layout>
+      <window_info id="npm" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2497532" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32959184" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32959184" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32857144" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -244,27 +264,9 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/data.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="45" selection-start-line="6" selection-start-column="45" selection-end-line="6" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/model.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="28" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/data.json" />
+    <entry file="file://$PROJECT_DIR$/index.html" />
+    <entry file="file://$PROJECT_DIR$/model.html" />
     <entry file="file://$PROJECT_DIR$/public/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
@@ -279,65 +281,45 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/admin/source code/admin/src/router.js">
+    <entry file="file://$PROJECT_DIR$/public/admin/source code/admin/src/router.js" />
+    <entry file="file://$PROJECT_DIR$/public/admin/source code/admin/src/main.js" />
+    <entry file="file://$PROJECT_DIR$/public/admin/source code/admin/src/App.vue" />
+    <entry file="file://$PROJECT_DIR$/public/admin/source code/admin/public/index.html" />
+    <entry file="file://$PROJECT_DIR$/update.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
-          <folding>
-            <element signature="e#0#21#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/admin/source code/admin/src/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="17" lean-forward="true" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
-          <folding>
-            <element signature="e#0#21#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/template/template.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-15">
-          <caret line="30" column="16" lean-forward="true" selection-start-line="30" selection-start-column="16" selection-end-line="30" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/admin/source code/admin/src/App.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="47" lean-forward="true" selection-start-line="9" selection-start-column="47" selection-end-line="9" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/admin/source code/admin/public/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="14" lean-forward="true" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
+        <state relative-caret-position="570">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/data/config.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/template.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1443">
-          <caret line="183" lean-forward="true" selection-start-line="183" selection-end-line="183" />
+        <state relative-caret-position="570">
+          <caret line="30" column="16" selection-start-line="30" selection-start-column="16" selection-end-line="30" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/update.js">
+    <entry file="file://$PROJECT_DIR$/node_modules/_content-disposition@0.5.3@content-disposition/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1182">
-          <caret line="85" column="6" lean-forward="true" selection-start-line="85" selection-start-column="6" selection-end-line="85" selection-end-column="6" />
+        <state relative-caret-position="495">
+          <caret line="37" column="21" selection-start-line="37" selection-start-column="21" selection-end-line="37" selection-end-column="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/config.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="23" lean-forward="true" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+        <state relative-caret-position="437">
+          <caret line="23" column="35" selection-start-line="23" selection-start-column="35" selection-end-line="23" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="27" lean-forward="true" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
         </state>
       </provider>
     </entry>
