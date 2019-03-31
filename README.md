@@ -34,4 +34,11 @@ node框架koa2+Vue做一个简单的导航网站+后台管理中心
 <hr>
 <p>整个项目是后台管理json文件，node根据json文件生成静态html资源给与用户访问，减少服务器请求数和处理性能消耗（虽然也耗不了多少）。</p>
 <p>下面是一些图片</p>
-
+<img src="https://s2.ax1x.com/2019/04/01/Arj6JS.png" alt="Arj6JS.png" border="0">
+<img src="https://s2.ax1x.com/2019/04/01/Arjyi8.png" alt="Arjyi8.png" border="0">
+<img src="https://s2.ax1x.com/2019/04/01/ArjrIf.png" alt="ArjrIf.png" border="0">
+<img src="https://s2.ax1x.com/2019/04/01/ArjgzQ.png" alt="ArjgzQ.png" border="0">
+<img src="https://s2.ax1x.com/2019/04/01/ArjcRg.png" alt="ArjcRg.png" border="0">
+<p>总体来说，后台管理功能相对还是比较完善的</p>
+<p>但是前台可能会丑了点，有大神的话可以优化下再使用</p>
+<img src="https://s2.ax1x.com/2019/04/01/ArjRMj.png" alt="ArjRMj.png" border="0" />
