@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>张小二的个人项目导航</title>
+    <meta name="Keywords" content="项目导航,张小二dea"/>
+    <meta name="Description" content="张小二的个人项目导航网站"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+    <script type="text/javascript" src="http://vuejs.org/js/vue.min.js"></script>
+    <script src="https://cdn.bootcss.com/jquery/3.3.1/jquery.min.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@3.3.7/dist/css/bootstrap.min.css"
+          integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@3.3.7/dist/js/bootstrap.min.js"
+            integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa"
+            crossorigin="anonymous"></script>
+    <style>
+        body {
+            background-color: rgba(255, 255, 255, 0.5);
+            background-image: url('./image/bg.png');
+            background-repeat: repeat;
+        }
+
+        .body a {
+            display: block;
+            float: left;
+            text-align: center;
+            margin-top: 5px;
+        }
+
+        .col-xs-6 {
+            padding-left: 5px;
+            padding-right: 5px;
+        }
+    </style>
+</head>
+<body>
+<div id="app">
+
+
+    <div class="head">
+        <ul class="nav nav-tabs">
+            <li role="presentation" v-for="lt in menu"><a :href="lt['url']">{{lt['name']}}</a></li>
+        </ul>
+    </div>
+    <div class="body col-xs-12 col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
+        <h1 align="center">{{config['name']}}</h1>
+        <div class="panel"  v-for="(lt,num1) in nav" :class="lt['color']">
+            <div class="panel-heading">
+                <h3 class="panel-title">
+                    {{lt['name']}}
+                </h3>
+            </div>
+            <div class="panel-body">
+                <a v-for="(ll,num2) in lt['menu']" :href="ll['url']?ll['url']:'./product/'+num1+'_'+num2+'.html'" class="col-lg-2 col-md-3 col-sm-4 col-xs-6">{{ll['name']}}</a>
+            </div>
+        </div>
+    </div>
+</div>
+<script>
+  new Vue({
+    el: '#app',
+    data:{"config":{"name":"张小二的个人项目导航","describe":"张小二的个人项目导航网站","key":"项目导航,张小二dea","username":"admin","password":"LOVE1314"},"menu":{"0":{"name":"github","url":"https://github.com/moke8"}},"nav":{"0":{"name":"纯前端作品","color":"panel-primary","menu":[{"name":"亲属关系计算器","url":"#"},{"name":"网络通信商官网","url":"#"},{"name":"二维码生成解析","url":"#"},{"name":"更多作品正在添加","url":"#"},{"name":"更多作品正在添加","url":"#"},{"name":"更多作品正在添加","url":"#"},{"name":"更多作品正在添加","url":"#"},{"name":"更多作品正在添加","url":"#"}]},"1":{"name":"PHP作品","color":"panel-success","menu":[{"name":"大学生校园服务平台","url":"#"},{"name":"更多作品正在添加","url":"#"},{"name":"更多作品正在添加","url":"#"},{"name":"更多作品正在添加","url":"#"},{"name":"更多作品正在添加","url":"#"},{"name":"更多作品正在添加","url":"#"},{"name":"更多作品正在添加","url":"#"},{"name":"更多作品正在添加","url":"#"}]},"2":{"name":"PYTHON作品","color":"panel-info","menu":[{"name":"定时关机","url":"#"},{"name":"简易广告域名屏蔽器","url":"#"},{"name":"更多作品正在添加","url":"#"},{"name":"更多作品正在添加","url":"#"},{"name":"更多作品正在添加","url":"#"},{"name":"更多作品正在添加","url":"#"},{"name":"更多作品正在添加","url":"#"},{"name":"更多作品正在添加","url":"#"}]},"3":{"name":"nodeJS作品","color":"panel-warning","menu":[{"name":"本站","url":"#"},{"name":"更多作品正在添加","url":"#"},{"name":"更多作品正在添加","url":"#"},{"name":"更多作品正在添加","url":"#"},{"name":"更多作品正在添加","url":"#"},{"name":"更多作品正在添加","url":"#"},{"name":"更多作品正在添加","url":"#"},{"name":"更多作品正在添加","url":"#"}]}}}
+
+  })
+</script>
+</body>
+</html>

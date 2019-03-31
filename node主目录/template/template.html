@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>${config_name}</title>
+    <meta name="Keywords" content="${config_key}"/>
+    <meta name="Description" content="${config_describe}"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+    <script type="text/javascript" src="http://vuejs.org/js/vue.min.js"></script>
+    <script src="https://cdn.bootcss.com/jquery/3.3.1/jquery.min.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@3.3.7/dist/css/bootstrap.min.css"
+          integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@3.3.7/dist/js/bootstrap.min.js"
+            integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa"
+            crossorigin="anonymous"></script>
+    <style>
+        body {
+            background-color: rgba(255, 255, 255, 0.5);
+            background-image: url('./image/bg.png');
+            background-repeat: repeat;
+        }
+
+        .body a {
+            display: block;
+            float: left;
+            text-align: center;
+            margin-top: 5px;
+        }
+
+        .col-xs-6 {
+            padding-left: 5px;
+            padding-right: 5px;
+        }
+    </style>
+</head>
+<body>
+<div id="app">
+
+
+    <div class="head">
+        <ul class="nav nav-tabs">
+            <li role="presentation" v-for="lt in menu"><a :href="lt['url']">{{lt['name']}}</a></li>
+        </ul>
+    </div>
+    <div class="body col-xs-12 col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
+        <h1 align="center">{{config['name']}}</h1>
+        <div class="panel"  v-for="(lt,num1) in nav" :class="lt['color']">
+            <div class="panel-heading">
+                <h3 class="panel-title">
+                    {{lt['name']}}
+                </h3>
+            </div>
+            <div class="panel-body">
+                <a v-for="(ll,num2) in lt['menu']" :href="ll['url']?ll['url']:'./product/'+num1+'_'+num2+'.html'" class="col-lg-2 col-md-3 col-sm-4 col-xs-6">{{ll['name']}}</a>
+            </div>
+        </div>
+    </div>
+</div>
+<script>
+  new Vue({
+    el: '#app',
+    data:${data}
+
+  })
+</script>
+</body>
+</html>

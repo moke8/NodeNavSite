@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>${name}</title>
+    <meta name="Keywords" content="${name}" />
+	<meta name="Description" content="${describe}" />
+    <script src="https://cdn.bootcss.com/jquery/3.3.1/jquery.min.js"></script>
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@3.3.7/dist/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@3.3.7/dist/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+    <style>
+        body{
+			background-color: rgba(255, 255, 255, 0.5);
+			background-image: url(../image/bg.png);
+			background-repeat: repeat;
+		}
+        #app{
+            height:50vh;
+            margin-top:25vh;
+            text-align: center;
+
+        }
+    </style>
+</head>
+<body>
+    <div id="app">
+        <div class="page-header">
+            <h1>${name}</h1>
+            <p>${describe}</p>
+        </div>
+        <div class="col-xs-10 col-xs-offset-1 col-sm-6 col-sm-offset-3 col-md-4 col-md-offset-4">
+            <a class="btn btn-primary glyphicon glyphicon-save btn-block" aria-hidden="true" href="${down_url}">下载可执行的exe文件</a>
+            <a class="btn btn-success glyphicon glyphicon-save btn-block" aria-hidden="true" href="${code_url}">通过github获取源码</a>
+        </div>
+    </div>
+    
+</body>
+</html>

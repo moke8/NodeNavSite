@@ -1,0 +1,18 @@
+{
+  "name": "node_nav",
+  "version": "1.0.0",
+  "description": "",
+  "main": "config.js",
+  "dependencies": {
+    "co-body": "^6.0.0",
+    "copy-to": "^2.0.1",
+    "koa-bodyparser": "^4.2.1",
+    "koa-static": "^5.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
